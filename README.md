@@ -178,7 +178,8 @@ LexStellar employs GitHub Actions (`.github/workflows/ci.yml`) to automatically 
 
 ## 🔗 Metadata & Placeholders
 
-- **Contract Address Manager**: `CONTRACT_ADDRESS_PLACEHOLDER`
+- **Contract Manager Address**: `Not deployed yet`
+- **Escrow Vault Address**: `CA56TBI2RO2USCGBWJ5VTMXBE4UX5BMXH27HN6H55F5J72DCK4Z6SSCK`
 - **Transaction Hash**: `TRANSACTION_HASH_PLACEHOLDER`
 - **Demo Video**: `DEMO_VIDEO_LINK_PLACEHOLDER`
 - **Live Demo**: `LIVE_DEMO_PLACEHOLDER`
